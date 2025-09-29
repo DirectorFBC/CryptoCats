@@ -80,7 +80,7 @@ body {
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: 80%;
-  border: 2px solid #88e452ff;
+  border: 2px solid rgb(61, 29, 24);
   border-radius: 100%;
   width: 70px;
   height: 70px;
@@ -97,7 +97,7 @@ body {
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: 89%;
-  border: 2px solid #88e452ff;
+  border: 2px solid rgb(61, 29, 24);
   border-radius: 100%;
   width: 70px;
   height: 70px;
@@ -114,7 +114,7 @@ body {
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: auto 70%;
-  border: 2px solid #88e452ff;
+  border: 2px solid rgb(61, 29, 24);
   border-radius: 100%;
   width: 70px;
   height: 70px;
@@ -131,7 +131,7 @@ body {
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: auto 65%;
-  border: 2px solid #88e452ff;
+  border: 2px solid rgb(61, 29, 24);
   border-radius: 100%;
   width: 70px;
   height: 70px;
@@ -148,7 +148,7 @@ body {
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: auto 65%;
-  border: 2px solid #88e452ff;
+  border: 2px solid rgb(61, 29, 24);
   border-radius: 100%;
   width: 70px;
   height: 70px;
@@ -165,7 +165,7 @@ body {
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: auto 65%;
-  border: 2px solid #88e452ff;
+  border: 2px solid rgb(61, 29, 24);
   border-radius: 100%;
   width: 70px;
   height: 70px;
@@ -180,7 +180,7 @@ body {
   background-color: #8b5e44ff;
   background-position: 50%;
   background-size: auto 70%;
-  border: 2px solid #88e452ff;
+  border: 2px solid rgb(61, 29, 24);
   border-radius: 10px;
   width: 25%;
   display: block; 
@@ -262,7 +262,7 @@ body {
 
 .nav-btn {
   background-color: #8b5e44;
-  border: 2px solid #88e452;
+  border: 2px solid rgb(61, 29, 24);
   border-radius: 50%;
   width: 40px;
   height: 40px;
@@ -276,7 +276,7 @@ body {
 }
 
 .nav-btn:hover {
-  background-color: #88e452;
+  background-color: rgb(255, 255, 255);
   transform: scale(1.1);
 }
 
@@ -297,7 +297,7 @@ body {
 }
 
 .indicator.active {
-  background-color: #88e452;
+  background-color: rgb(61, 29, 24);
   transform: scale(1.2);
 }
 
